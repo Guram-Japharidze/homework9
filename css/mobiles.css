@@ -1,0 +1,13 @@
+@media (max-width:450px) {
+    .section3_p {
+        font-size: 14px;
+        line-height: 16px;
+        }
+        .section3_div2 {
+            flex-direction: column;
+            row-gap: 20px;
+        }
+        footer {
+            margin-top: 48px;
+        }
+}
